@@ -1,0 +1,11 @@
+< 오라클 계정 >
+
+1. scott/tiger
+
+2. hr/hr
+
+3. /as sysdba : A123
+
+4. SUZI/A123
+
+5. SYSTEM/A123
